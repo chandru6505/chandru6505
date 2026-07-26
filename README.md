@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋, I'm K Chandru
 
-<!--
-**chandru6505/chandru6505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | Cyber Security Graduate
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building modern web applications and continuously learning new technologies.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science (Cyber Security)
+- 🌱 Currently learning Full Stack Development
+- 💻 Interested in Web Development & AI
+- 🔐 Passionate about Cyber Security
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Java
+- JavaScript
+- Python
+- C
+
+### Frontend
+
+- HTML
+- CSS
+- React
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MySQL
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Docker
+
+---
+
+## 📌 Current Goals
+
+- ✅ Become a Full Stack Developer
+- ✅ Build real-world projects
+- ✅ Contribute to Open Source
+- ✅ Improve DSA skills
+
+---
+
+## 📫 Contact
+
+- 📧 Email: chandrukodavath@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/k-chandru-ab95012a6
+
+---
+
+⭐ Thanks for visiting my profile!
