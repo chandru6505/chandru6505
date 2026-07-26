@@ -116,6 +116,23 @@ Collection of JavaScript mini projects and programs.
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
+
+## ⚡ Fun Facts
+
+- 💡 I enjoy solving real-world problems through code.
+- 🌱 I love learning new technologies.
+- 🔐 Cyber Security and Web Development excite me.
+- ☕ Coffee + Coding = Productivity.
+
+- ## 💬 Ask Me About
+
+- React
+- JavaScript
+- Java
+- Python
+- Cyber Security
+- Git & GitHub
+- 
 ## 🐍 Contribution Snake
 
 <p align="center">
