@@ -48,6 +48,20 @@ I'm passionate about building modern web applications and continuously learning 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌐 ACKS Data Labs
+Corporate website built with React, Vite, and Tailwind CSS.
+
+### 🏠 HostelHub
+A hostel booking platform with a modern UI and responsive design.
+
+### 🔐 Secure Federated Intrusion Detection
+AI-powered intrusion detection system using Python and BiLSTM.
+
+### 💻 JavaScript Practice
+A collection of JavaScript programs and mini projects.
+
 ## 🌐 Connect with Me
 
 <p align="left">
