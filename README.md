@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./banner.png" alt="K Chandru Banner" width="100%" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+K+Chandru;Full+Stack+Developer;Cyber+Security+Graduate;Java+%7C+JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
